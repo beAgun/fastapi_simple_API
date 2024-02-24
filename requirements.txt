@@ -1,3 +1,2 @@
 fastapi[all]
-python-dotenv
 sqlalchemy
